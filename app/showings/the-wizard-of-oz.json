@@ -1,0 +1,58 @@
+{
+  "movie_title": "The Wizard of Oz",
+  "director": [
+    "Victor Flemming",
+    "King Vidor"
+  ],
+  "cast": [
+    "Judy Garland",
+    "Frank Morgan",
+    "Ray Bolger"
+  ],
+  "release_date": "25/08/1939",
+  "running_length": 101,
+  "age_rating": "U",
+  "age_rating_img_url": "img/BBFC_U_150px-height.png",
+  "synopsis": "L. Frank Baum's classic tale comes to magisterial Technicolor life! The Wizard of Oz stars legendary Judy Garland as Dorothy, an innocent farm girl whisked out of her mundane earthbound existence into a land of pure imagination. Dorothy's journey in Oz will take her through emerald forests, yellow brick roads, and creepy castles, all with the help of some unusual but earnest song-happy friends.",
+  "img_url": "img/movie_posters/wizard_of_oz.jpg",
+  "time_and_date": {
+    "dates": [
+      "02/05/2014",
+      "03/05/2014",
+      "04/05/2014",
+      "05/05/2014",
+      "06/05/2014",
+      "07/05/2014",
+      "08/05/2014"
+    ],
+    "weekday_times_screens": [
+      {
+        "time": "1pm",
+        "screen": 1
+      },
+      {
+        "time": "4pm",
+        "screen": 2
+      },
+      {
+        "time": "8pm",
+        "screen": 3
+      }
+    ],
+    "weekend_time": [
+      "9am",
+      "12pm",
+      "3pm",
+      "7pm",
+      "10pm"
+    ]
+  },
+  "sales_data": {
+    "tickets_booked": 0,
+    "full_flag": false,
+    "number_students": 0,
+    "number_concessions": 0,
+    "number_children": 0,
+    "number_adults": 0
+  }
+}

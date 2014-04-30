@@ -1,0 +1,57 @@
+{
+  "movie_title": "Citizen Kane",
+  "director": [
+    "Orsen Welles"
+  ],
+  "cast": [
+    "Orsen Welles",
+    "Joseph Cotten",
+    "Dorothy Comingore"
+  ],
+  "release_date": "05/09/1941",
+  "running_length": 119,
+  "age_rating": "U",
+  "age_rating_img_url": "img/BBFC_U_150px-height.png",
+  "synopsis": "A group of reporters who are trying to decipher the last word ever spoke by Charles Foster Kane, the millionaire newspaper tycoon: 'Rosebud.' The film begins with a news reel detailing Kane's life for the masses, and then from there, we are shown flashbacks from Kane's life. As the reporters investigate further, the viewers see a display of a fascinating man's rise to fame, and how he eventually fell off the 'top of the world.'",
+  "img_url": "img/movie_posters/citizen_kane.jpg",
+  "time_and_date": {
+    "dates": [
+      "02/05/2014",
+      "03/05/2014",
+      "04/05/2014",
+      "05/05/2014",
+      "06/05/2014",
+      "07/05/2014",
+      "08/05/2014"
+    ],
+    "weekday_times_screens": [
+      {
+        "time": "1pm",
+        "screen": 2
+      },
+      {
+        "time": "4pm",
+        "screen": 3
+      },
+      {
+        "time": "8pm",
+        "screen": 4
+      }
+    ],
+    "weekend_time": [
+      "9am",
+      "12pm",
+      "3pm",
+      "7pm",
+      "10pm"
+    ]
+  },
+  "sales_data": {
+    "tickets_booked": 0,
+    "full_flag": false,
+    "number_students": 0,
+    "number_concessions": 0,
+    "number_children": 0,
+    "number_adults": 0
+  }
+}

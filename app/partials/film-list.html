@@ -1,0 +1,20 @@
+<div class="row">
+	<div class="large-12 columns">
+		<div class="panel">
+			Search: <input ng-model="query">
+		</div>
+	</div>
+</div>
+
+<div class="row" ng-repeat="showing in showings | filter:query">
+	<div class="large-4	columns">
+		<p><a href="#/films/{{showing.id}}"><img ng-src="{{showing.img_url}}"></a></p>
+	</div>
+
+	<div class="large-8 columns">
+		<h5>{{showing.movie_title}}</h5>
+			<p>{{showing.synopsis}}</p>
+			<p><a href="#/films/{{showing.id}}" class="button radius">More Info &raquo;</a></p>
+	</div>
+</div>
+

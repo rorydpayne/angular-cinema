@@ -1,0 +1,57 @@
+{
+  "movie_title": "The Dark Night",
+  "director": [
+    "Christpher Nolan"
+  ],
+  "cast": [
+    "Christian Bale",
+    "Heath Ledger",
+    "Arron Eckhart"
+  ],
+  "release_date": "24/07/2008",
+  "running_length": 152,
+  "age_rating": "12A",
+  "age_rating_img_url": "img/BBFC_12A_150px-height.png",
+  "synopsis": "Batman raises the stakes in his war on crime. With the help of Lieutenant Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the city streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as The Joker.",
+  "img_url": "img/movie_posters/the_dark_knight.jpg",
+  "time_and_date": {
+    "dates": [
+      "02/05/2014",
+      "03/05/2014",
+      "04/05/2014",
+      "05/05/2014",
+      "06/05/2014",
+      "07/05/2014",
+      "08/05/2014"
+    ],
+    "weekday_times_screens": [
+      {
+        "time": "1pm",
+        "screen": 5
+      },
+      {
+        "time": "4pm",
+        "screen": 6
+      },
+      {
+        "time": "8pm",
+        "screen": 7
+      }
+    ],
+    "weekend_time": [
+      "9am",
+      "12pm",
+      "3pm",
+      "7pm",
+      "10pm"
+    ]
+  },
+  "sales_data": {
+    "tickets_booked": 0,
+    "full_flag": false,
+    "number_students": 0,
+    "number_concessions": 0,
+    "number_children": 0,
+    "number_adults": 0
+  }
+}

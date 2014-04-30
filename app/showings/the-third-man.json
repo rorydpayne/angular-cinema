@@ -1,0 +1,57 @@
+{
+  "movie_title": "The Third Man",
+  "director": [
+    "Carol Reed"
+  ],
+  "cast": [
+    "Joseph Cotten",
+    "Alida Valli",
+    "Orson Welles"
+  ],
+  "release_date": "02/09/1949",
+  "running_length": 104,
+  "age_rating": "PG",
+  "age_rating_img_url": "img/BBFC_PG_150px-height.png",
+  "synopsis": "An out of work pulp fiction novelist, Holly Martins, arrives in a post war Vienna divided into sectors by the victorious allies, and where a shortage of supplies has lead to a flourishing black market. He arrives at the invitation of an ex-school friend, Harry Lime, who has offered him a job, only to discover that Lime has recently died in a peculiar traffic accident. From talking to Lime's friends and associates Martins soon notices that some of the stories are inconsistent, and determines to discover what really happened to Harry Lime",
+  "img_url": "img/movie_posters/the_third_man.jpg",
+  "time_and_date": {
+    "dates": [
+      "02/05/2014",
+      "03/05/2014",
+      "04/05/2014",
+      "05/05/2014",
+      "06/05/2014",
+      "07/05/2014",
+      "08/05/2014"
+    ],
+    "weekday_times_screens": [
+      {
+        "time": "1pm",
+        "screen": 4
+      },
+      {
+        "time": "4pm",
+        "screen": 5
+      },
+      {
+        "time": "8pm",
+        "screen": 6
+      }
+    ],
+    "weekend_time": [
+      "9am",
+      "12pm",
+      "3pm",
+      "7pm",
+      "10pm"
+    ]
+  },
+  "sales_data": {
+    "tickets_booked": 0,
+    "full_flag": false,
+    "number_students": 0,
+    "number_concessions": 0,
+    "number_children": 0,
+    "number_adults": 0
+  }
+}

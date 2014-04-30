@@ -1,0 +1,57 @@
+{
+  "movie_title": "The Good, the Bad, and the Ugly",
+  "director": [
+    "Sergio Leone"
+  ],
+  "cast": [
+    "Clint Eastwood",
+    "Eli Wallach",
+    "Lee Van Cleef"
+  ],
+  "release_date": "23/12/1966",
+  "running_length": 161,
+  "age_rating": "15",
+  "age_rating_img_url": "img/BBFC_15_150px-height.png",
+  "synopsis": "Blondie (The Good) is a professional gunslinger who is out trying to earn a few dollars. Angel Eyes (The Bad) is a hit man who always commits to a task and sees it through, as long as he is paid to do so. And Tuco (The Ugly) is a wanted outlaw trying to take care of his own hide. Tuco and Blondie share a partnership together making money off Tuco's bounty, but when Blondie unties the partnership, Tuco tries to hunt down Blondie. When Blondie and Tuco comes across a horse carriage loaded with dead bodies, they soon learn from the only survivor (Bill Carson) that he and a few other men have buried a stash of gold in a cemetery. Unfortunately Carson dies and Tuco only finds out the name of the cemetery, while Blondie finds out the name on the grave. Now the two must keep each other alive in order to find the gold. Angel Eyes (who had been looking for Bill Carson) discovers that Tuco and Blondie meet with Carson and knows they know the location of the gold. All he needs is for the two to lead him to it. Now The Good, The Bad and The Ugly must all battle it out to get their hands on $200,000 worth of gold. ",
+  "img_url": "img/movie_posters/the_good_bad_ugly.jpg",
+  "time_and_date": {
+    "dates": [
+      "02/05/2014",
+      "03/05/2014",
+      "04/05/2014",
+      "05/05/2014",
+      "06/05/2014",
+      "07/05/2014",
+      "08/05/2014"
+    ],
+    "weekday_times_screens": [
+      {
+        "time": "1pm",
+        "screen": 6
+      },
+      {
+        "time": "4pm",
+        "screen": 7
+      },
+      {
+        "time": "8pm",
+        "screen": 8
+      }
+    ],
+    "weekend_time": [
+      "9am",
+      "12pm",
+      "3pm",
+      "7pm",
+      "10pm"
+    ]
+  },
+  "sales_data": {
+    "tickets_booked": 0,
+    "full_flag": false,
+    "number_students": 0,
+    "number_concessions": 0,
+    "number_children": 0,
+    "number_adults": 0
+  }
+}

@@ -1,0 +1,59 @@
+[
+  {
+    "movie_title": "The Wizard of Oz",
+    "id": "the-wizard-of-oz",
+    "running_length": 101,
+    "age_rating": "U",
+    "age_rating_img_url": "img/BBFC_U_150px-height.png",
+    "synopsis": "L. Frank Baum's classic tale comes to magisterial Technicolor life! The Wizard of Oz stars legendary Judy Garland as Dorothy, an innocent farm girl whisked out of her mundane earthbound existence into a land of pure imagination. Dorothy's journey in Oz will take her through emerald forests, yellow brick roads, and creepy castles, all with the help of some unusual but earnest song-happy friends.",
+    "img_url": "img/movie_posters/wizard_of_oz.jpg"
+  },
+  {
+    "movie_title": "Citizen Kane",
+    "id": "citizen-kane",
+    "age_rating": "U",
+    "age_rating_img_url": "img/BBFC_U_150px-height.png",
+    "synopsis": "A group of reporters who are trying to decipher the last word ever spoke by Charles Foster Kane, the millionaire newspaper tycoon: 'Rosebud.' The film begins with a news reel detailing Kane's life for the masses, and then from there, we are shown flashbacks from Kane's life. As the reporters investigate further, the viewers see a display of a fascinating man's rise to fame, and how he eventually fell off the 'top of the world.'",
+    "img_url": "img/movie_posters/citizen_kane.jpg"
+  },
+  {
+    "movie_title": "The Godfather",
+    "id": "the-godfather",
+    "age_rating": "18",
+    "age_rating_img_url": "img/BBFC_18_150px-height.png",
+    "synopsis": "The story begins as 'Don' Vito Corleone, the head of a New York Mafia 'family', oversees his daughter's wedding with his wife Carmela. His beloved son Michael has just come home from the war, but does not intend to become part of his father's business. Through Michael's life the nature of the family business becomes clear. The business of the family is just like the head of the family, kind and benevolent to those who give respect, but given to ruthless violence whenever anything stands against the good of the family. Don Vito lives his life in the way of the old country, but times are changing and some don't want to follow the old ways and look out for community and 'family'. An up and coming rival of the Corleone family wants to start selling drugs in New York, and needs the Don's influence to further his plan. The clash of the Don's fading old world values and the new ways will demand a terrible price, especially from Michael, all for the sake of the family.",
+    "img_url": "img/movie_posters/the_godfather.jpg"
+  },
+  {
+    "movie_title": "The Third Man",
+    "id": "the-third-man",
+    "age_rating": "PG",
+    "age_rating_img_url": "img/BBFC_PG_150px-height.png",
+    "synopsis": "An out of work pulp fiction novelist, Holly Martins, arrives in a post war Vienna divided into sectors by the victorious allies, and where a shortage of supplies has lead to a flourishing black market. He arrives at the invitation of an ex-school friend, Harry Lime, who has offered him a job, only to discover that Lime has recently died in a peculiar traffic accident. From talking to Lime's friends and associates Martins soon notices that some of the stories are inconsistent, and determines to discover what really happened to Harry Lime",
+    "img_url": "img/movie_posters/the_third_man.jpg"
+  },
+  {
+    "movie_title": "The Dark Night",
+    "id": "the-dark-knight",
+    "age_rating": "12A",
+    "age_rating_img_url": "img/BBFC_12A_150px-height.png",
+    "synopsis": "Batman raises the stakes in his war on crime. With the help of Lieutenant Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the city streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as The Joker.",
+    "img_url": "img/movie_posters/the_dark_knight.jpg"
+  },
+  {
+    "movie_title": "The Good, the Bad, and the Ugly",
+    "id": "the-good-the-bad-and-the-ugly",
+    "age_rating": "15",
+    "age_rating_img_url": "img/BBFC_15_150px-height.png",
+    "synopsis": "Blondie (The Good) is a professional gunslinger who is out trying to earn a few dollars. Angel Eyes (The Bad) is a hit man who always commits to a task and sees it through, as long as he is paid to do so. And Tuco (The Ugly) is a wanted outlaw trying to take care of his own hide. Tuco and Blondie share a partnership together making money off Tuco's bounty, but when Blondie unties the partnership, Tuco tries to hunt down Blondie. When Blondie and Tuco comes across a horse carriage loaded with dead bodies, they soon learn from the only survivor (Bill Carson) that he and a few other men have buried a stash of gold in a cemetery. Unfortunately Carson dies and Tuco only finds out the name of the cemetery, while Blondie finds out the name on the grave. Now the two must keep each other alive in order to find the gold. Angel Eyes (who had been looking for Bill Carson) discovers that Tuco and Blondie meet with Carson and knows they know the location of the gold. All he needs is for the two to lead him to it. Now The Good, The Bad and The Ugly must all battle it out to get their hands on $200,000 worth of gold. ",
+    "img_url": "img/movie_posters/the_good_bad_ugly.jpg"
+  },
+  {
+    "movie_title": "Pulp Fiction",
+    "id": "pulp-fiction",
+    "age_rating": "18",
+    "age_rating_img_url": "img/BBFC_18_150px-height.png",
+    "synopsis": "Jules Winnfield and Vincent Vega are two hitmen who are out to retrieve a suitcase stolen from their employer, mob boss Marsellus Wallace. Wallace has also asked Vincent to take his wife Mia out a few days later when Wallace himself will be out of town. Butch Coolidge is an aging boxer who is paid by Wallace to lose his next fight. The lives of these seemingly unrelated people are woven together comprising of a series of funny, bizarre and uncalled-for incidents.",
+    "img_url": "img/movie_posters/pulp_fiction.jpg"
+  }
+]

@@ -1,0 +1,57 @@
+{
+  "movie_title": "Pulp Fiction",
+  "director": [
+    "Quintin Tarantino"
+  ],
+  "cast": [
+    "John Travolta",
+    "Uma Therman",
+    "Samuel L. Jackson"
+  ],
+  "release_date": "21/10/1994",
+  "running_length": 154,
+  "age_rating": "18",
+  "age_rating_img_url": "img/BBFC_18_150px-height.png",
+  "synopsis": "Jules Winnfield and Vincent Vega are two hitmen who are out to retrieve a suitcase stolen from their employer, mob boss Marsellus Wallace. Wallace has also asked Vincent to take his wife Mia out a few days later when Wallace himself will be out of town. Butch Coolidge is an aging boxer who is paid by Wallace to lose his next fight. The lives of these seemingly unrelated people are woven together comprising of a series of funny, bizarre and uncalled-for incidents.",
+  "img_url": "img/movie_posters/pulp_fiction.jpg",
+  "time_and_date": {
+    "dates": [
+      "02/05/2014",
+      "03/05/2014",
+      "04/05/2014",
+      "05/05/2014",
+      "06/05/2014",
+      "07/05/2014",
+      "08/05/2014"
+    ],
+    "weekday_times_screens": [
+      {
+        "time": "1pm",
+        "screen": 6
+      },
+      {
+        "time": "4pm",
+        "screen": 7
+      },
+      {
+        "time": "8pm",
+        "screen": 8
+      }
+    ],
+    "weekend_time": [
+      "9am",
+      "12pm",
+      "3pm",
+      "7pm",
+      "10pm"
+    ]
+  },
+  "sales_data": {
+    "tickets_booked": 0,
+    "full_flag": false,
+    "number_students": 0,
+    "number_concessions": 0,
+    "number_children": 0,
+    "number_adults": 0
+  }
+}

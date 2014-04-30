@@ -2,10 +2,18 @@
 
 /* Controllers */
 
-angular.module('myApp.controllers', [])
-  .controller('MyCtrl1', [function() {
+var myAppControllers = angular.module('myAppControllers', []);
 
-  }])
-  .controller('MyCtrl2', [function() {
+myAppControllers.controller('FilmListCtrl', ['$scope', 'Showing',
+  function($scope, Showing) {
+    $scope.showings = Showing.query();
+  }]);
 
+myAppControllers.controller('FilmDetailCtrl', ['$scope', '$routeParams', 'Showing',
+  function($scope, $routeParams, Showing) {
+    $scope.showing = Showing.get({showingId: $routeParams.showingId});
+
+    $scope.setImage = function(imageUrl) {
+      $scope.mainImageUrl = imageUrl;
+    }
   }]);

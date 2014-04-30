@@ -1,0 +1,33 @@
+<div class="row">
+	<div class="large-6 columns">
+		<p><img ng-src="{{showing.img_url}}"></p>
+	</div>
+	<div class="large-6 columns">
+		<table>
+			<tr>
+				<td><img ng-src="{{showing.age_rating_img_url}}"></td>
+				<td>{{showing.movie_title}}</td>
+			</tr>
+			<tr>
+				<td ng-If="showing.director.length > 1">Directors:</td>
+				<td ng-If="showing.director.length == 1">Director:</td>
+				<td >{{showing.director.join(', ')}}</td>
+			</tr>
+			<tr>
+				<td>Cast:</td>
+				<td >{{showing.cast.join(', ')}}</td>
+			</tr>
+			<tr>
+				<td>Release Date:</td>
+				<td>{{showing.release_date}}</td>
+			</tr>
+			<tr>
+				<td>Running Length</td>
+				<td>{{showing.running_length + 'min'}}</td>
+			</tr>
+		</table>
+	</div>
+</div>
+<div class="row">
+	<p>{{showing.synopsis}}</p>
+</div>

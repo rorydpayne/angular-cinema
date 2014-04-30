@@ -2,8 +2,11 @@
 
 /* Services */
 
+var myAppServices = angular.module('myAppServices', ['ngResource']);
 
-// Demonstrate how to register services
-// In this case it is a simple value service.
-angular.module('myApp.services', []).
-  value('version', '0.1');
+myAppServices.factory('Showing', ['$resource',
+  function($resource){
+    return $resource('showings/:showingId.json', {}, {
+      query: {method:'GET', params:{showingId:'showings'}, isArray:true}
+    });
+  }]);
