@@ -26,13 +26,13 @@
         </div>
       </div>
     </div>
-    <div class="row">
-      <div class="large-8 columns">
+    <div class="row" ng-view></div>
+<!--       <div class="large-8 columns">
         <div ng-view>
           
         </div>
-      </div>
-      <div class="large-4 columns">
+      </div> -->
+<!--       <div class="large-4 columns" ng-controller="FilmListCtrl">
         <div class="panel">
           <p>This is where the cinema ticket-booking api goes</p>
           <p>
@@ -41,12 +41,12 @@
             <tr>
               <td>Film:</td>
               <td><select>
-                <option value="" ng-repeat="showing in showings">hi</option>
+                <option value="" ng-repeat="showing in showings">{{showing.movie_title}}</option>
               </tr>
               </p><p>
               <tr>
                 <td>Date:</td>
-                <td><input type="date"/></td>
+                <td><input type="date" default=/></td>
               </tr>
               </p>
               <p>
@@ -73,6 +73,6 @@
               <p style="text-align:right;">Total: £54.32</p>
             </div>
           </div>
-        </div>
+        </div> -->
       </body>
     </html>

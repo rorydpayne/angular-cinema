@@ -16,13 +16,13 @@
   "img_url": "img/movie_posters/citizen_kane.jpg",
   "time_and_date": {
     "dates": [
-      "02/05/2014",
-      "03/05/2014",
-      "04/05/2014",
-      "05/05/2014",
-      "06/05/2014",
-      "07/05/2014",
-      "08/05/2014"
+      "Fri 02 May 2014",
+      "Sat 03 May 2014",
+      "Sun 04 May 2014",
+      "Mon 05 May 2014",
+      "Tue 06 May 2014",
+      "Wed 07 May 2014",
+      "Thu 08 May 2014"
     ],
     "weekday_times_screens": [
       {

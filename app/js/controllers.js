@@ -16,4 +16,9 @@ myAppControllers.controller('FilmDetailCtrl', ['$scope', '$routeParams', 'Showin
     $scope.setImage = function(imageUrl) {
       $scope.mainImageUrl = imageUrl;
     }
+
+    $scope.formData = {};
+    // $scope.formData.film = '';
+    $scope.formData.date = '';
+    $scope.formData.time = '';
   }]);
