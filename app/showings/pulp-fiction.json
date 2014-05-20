@@ -14,44 +14,266 @@
   "age_rating_img_url": "img/BBFC_18_150px-height.png",
   "synopsis": "Jules Winnfield and Vincent Vega are two hitmen who are out to retrieve a suitcase stolen from their employer, mob boss Marsellus Wallace. Wallace has also asked Vincent to take his wife Mia out a few days later when Wallace himself will be out of town. Butch Coolidge is an aging boxer who is paid by Wallace to lose his next fight. The lives of these seemingly unrelated people are woven together comprising of a series of funny, bizarre and uncalled-for incidents.",
   "img_url": "img/movie_posters/pulp_fiction.jpg",
-  "time_and_date": {
-    "dates": [
-      "Fri 02 May 2014",
-      "Sat 03 May 2014",
-      "Sun 04 May 2014",
-      "Mon 05 May 2014",
-      "Tue 06 May 2014",
-      "Wed 07 May 2014",
-      "Thu 08 May 2014"
-    ],
-    "weekday_times_screens": [
-      {
-        "time": "1pm",
-        "screen": 6
-      },
-      {
-        "time": "4pm",
-        "screen": 7
-      },
-      {
-        "time": "8pm",
-        "screen": 8
-      }
-    ],
-    "weekend_time": [
-      "9am",
-      "12pm",
-      "3pm",
-      "7pm",
-      "10pm"
-    ]
-  },
   "sales_data": {
-    "tickets_booked": 0,
     "full_flag": false,
     "number_students": 0,
     "number_concessions": 0,
     "number_children": 0,
     "number_adults": 0
-  }
+  },
+  "url": "pulp-fiction",
+  "opportunities": [
+    {
+      "date": "Friday 1st August",
+      "time": "1pm",
+      "screen": 7,
+      "tickets_booked": 33
+    },
+    {
+      "date": "Friday 1st August",
+      "time": "4pm",
+      "screen": 8,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Friday 1st August",
+      "time": "8pm",
+      "screen": 9,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Saturday 2nd August",
+      "time": "1pm",
+      "screen": 7,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Saturday 2nd August",
+      "time": "4pm",
+      "screen": 8,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Saturday 2nd August",
+      "time": "8pm",
+      "screen": 9,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Sunday 3rd August",
+      "time": "1pm",
+      "screen": 7,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Sunday 3rd August",
+      "time": "4pm",
+      "screen": 8,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Sunday 3rd August",
+      "time": "8pm",
+      "screen": 9,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Monday 4th August",
+      "time": "1pm",
+      "screen": 7,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Monday 4th August",
+      "time": "4pm",
+      "screen": 8,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Monday 4th August",
+      "time": "8pm",
+      "screen": 9,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Tuesday 5th August",
+      "time": "1pm",
+      "screen": 7,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Tuesday 5th August",
+      "time": "4pm",
+      "screen": 8,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Tuesday 5th August",
+      "time": "8pm",
+      "screen": 9,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Wednesday 6th August",
+      "time": "1pm",
+      "screen": 7,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Wednesday 6th August",
+      "time": "4pm",
+      "screen": 8,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Wednesday 6th August",
+      "time": "8pm",
+      "screen": 9,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Thursday 7th August",
+      "time": "1pm",
+      "screen": 7,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Thursday 7th August",
+      "time": "4pm",
+      "screen": 8,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Thursday 7th August",
+      "time": "8pm",
+      "screen": 9,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Friday 8th August",
+      "time": "1pm",
+      "screen": 7,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Friday 8th August",
+      "time": "4pm",
+      "screen": 8,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Friday 8th August",
+      "time": "8pm",
+      "screen": 9,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Saturday 9th August",
+      "time": "1pm",
+      "screen": 7,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Saturday 9th August",
+      "time": "4pm",
+      "screen": 8,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Saturday 9th August",
+      "time": "8pm",
+      "screen": 9,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Sunday 10th August",
+      "time": "1pm",
+      "screen": 7,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Sunday 10th August",
+      "time": "4pm",
+      "screen": 8,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Sunday 10th August",
+      "time": "8pm",
+      "screen": 9,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Monday 11th August",
+      "time": "1pm",
+      "screen": 7,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Monday 11th August",
+      "time": "4pm",
+      "screen": 8,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Monday 11th August",
+      "time": "8pm",
+      "screen": 9,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Tuesday 12th August",
+      "time": "1pm",
+      "screen": 7,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Tuesday 12th August",
+      "time": "4pm",
+      "screen": 8,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Tuesday 12th August",
+      "time": "8pm",
+      "screen": 9,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Wednesday 13th August",
+      "time": "1pm",
+      "screen": 7,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Wednesday 13th August",
+      "time": "4pm",
+      "screen": 8,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Wednesday 13th August",
+      "time": "8pm",
+      "screen": 9,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Thursday 14th August",
+      "time": "1pm",
+      "screen": 7,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Thursday 14th August",
+      "time": "4pm",
+      "screen": 8,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Thursday 14th August",
+      "time": "8pm",
+      "screen": 9,
+      "tickets_booked": 0
+    }
+  ]
 }

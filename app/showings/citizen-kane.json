@@ -14,44 +14,266 @@
   "age_rating_img_url": "img/BBFC_U_150px-height.png",
   "synopsis": "A group of reporters who are trying to decipher the last word ever spoke by Charles Foster Kane, the millionaire newspaper tycoon: 'Rosebud.' The film begins with a news reel detailing Kane's life for the masses, and then from there, we are shown flashbacks from Kane's life. As the reporters investigate further, the viewers see a display of a fascinating man's rise to fame, and how he eventually fell off the 'top of the world.'",
   "img_url": "img/movie_posters/citizen_kane.jpg",
-  "time_and_date": {
-    "dates": [
-      "Fri 02 May 2014",
-      "Sat 03 May 2014",
-      "Sun 04 May 2014",
-      "Mon 05 May 2014",
-      "Tue 06 May 2014",
-      "Wed 07 May 2014",
-      "Thu 08 May 2014"
-    ],
-    "weekday_times_screens": [
-      {
-        "time": "1pm",
-        "screen": 2
-      },
-      {
-        "time": "4pm",
-        "screen": 3
-      },
-      {
-        "time": "8pm",
-        "screen": 4
-      }
-    ],
-    "weekend_time": [
-      "9am",
-      "12pm",
-      "3pm",
-      "7pm",
-      "10pm"
-    ]
-  },
   "sales_data": {
-    "tickets_booked": 0,
     "full_flag": false,
     "number_students": 0,
     "number_concessions": 0,
     "number_children": 0,
     "number_adults": 0
-  }
+  },
+  "url": "citizen-kane",
+  "opportunities": [
+    {
+      "date": "Friday 1st August",
+      "time": "1pm",
+      "screen": 2,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Friday 1st August",
+      "time": "4pm",
+      "screen": 3,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Friday 1st August",
+      "time": "8pm",
+      "screen": 4,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Saturday 2nd August",
+      "time": "1pm",
+      "screen": 2,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Saturday 2nd August",
+      "time": "4pm",
+      "screen": 3,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Saturday 2nd August",
+      "time": "8pm",
+      "screen": 4,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Sunday 3rd August",
+      "time": "1pm",
+      "screen": 2,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Sunday 3rd August",
+      "time": "4pm",
+      "screen": 3,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Sunday 3rd August",
+      "time": "8pm",
+      "screen": 4,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Monday 4th August",
+      "time": "1pm",
+      "screen": 2,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Monday 4th August",
+      "time": "4pm",
+      "screen": 3,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Monday 4th August",
+      "time": "8pm",
+      "screen": 4,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Tuesday 5th August",
+      "time": "1pm",
+      "screen": 2,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Tuesday 5th August",
+      "time": "4pm",
+      "screen": 3,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Tuesday 5th August",
+      "time": "8pm",
+      "screen": 4,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Wednesday 6th August",
+      "time": "1pm",
+      "screen": 2,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Wednesday 6th August",
+      "time": "4pm",
+      "screen": 3,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Wednesday 6th August",
+      "time": "8pm",
+      "screen": 4,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Thursday 7th August",
+      "time": "1pm",
+      "screen": 2,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Thursday 7th August",
+      "time": "4pm",
+      "screen": 3,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Thursday 7th August",
+      "time": "8pm",
+      "screen": 4,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Friday 8th August",
+      "time": "1pm",
+      "screen": 2,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Friday 8th August",
+      "time": "4pm",
+      "screen": 3,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Friday 8th August",
+      "time": "8pm",
+      "screen": 4,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Saturday 9th August",
+      "time": "1pm",
+      "screen": 2,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Saturday 9th August",
+      "time": "4pm",
+      "screen": 3,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Saturday 9th August",
+      "time": "8pm",
+      "screen": 4,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Sunday 10th August",
+      "time": "1pm",
+      "screen": 2,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Sunday 10th August",
+      "time": "4pm",
+      "screen": 3,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Sunday 10th August",
+      "time": "8pm",
+      "screen": 4,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Monday 11th August",
+      "time": "1pm",
+      "screen": 2,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Monday 11th August",
+      "time": "4pm",
+      "screen": 3,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Monday 11th August",
+      "time": "8pm",
+      "screen": 4,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Tuesday 12th August",
+      "time": "1pm",
+      "screen": 2,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Tuesday 12th August",
+      "time": "4pm",
+      "screen": 3,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Tuesday 12th August",
+      "time": "8pm",
+      "screen": 4,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Wednesday 13th August",
+      "time": "1pm",
+      "screen": 2,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Wednesday 13th August",
+      "time": "4pm",
+      "screen": 3,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Wednesday 13th August",
+      "time": "8pm",
+      "screen": 4,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Thursday 14th August",
+      "time": "1pm",
+      "screen": 2,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Thursday 14th August",
+      "time": "4pm",
+      "screen": 3,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Thursday 14th August",
+      "time": "8pm",
+      "screen": 4,
+      "tickets_booked": 0
+    }
+  ]
 }

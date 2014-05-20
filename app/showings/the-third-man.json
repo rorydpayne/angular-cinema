@@ -14,44 +14,266 @@
   "age_rating_img_url": "img/BBFC_PG_150px-height.png",
   "synopsis": "An out of work pulp fiction novelist, Holly Martins, arrives in a post war Vienna divided into sectors by the victorious allies, and where a shortage of supplies has lead to a flourishing black market. He arrives at the invitation of an ex-school friend, Harry Lime, who has offered him a job, only to discover that Lime has recently died in a peculiar traffic accident. From talking to Lime's friends and associates Martins soon notices that some of the stories are inconsistent, and determines to discover what really happened to Harry Lime",
   "img_url": "img/movie_posters/the_third_man.jpg",
-  "time_and_date": {
-    "dates": [
-      "Fri 02 May 2014",
-      "Sat 03 May 2014",
-      "Sun 04 May 2014",
-      "Mon 05 May 2014",
-      "Tue 06 May 2014",
-      "Wed 07 May 2014",
-      "Thu 08 May 2014"
-    ],
-    "weekday_times_screens": [
-      {
-        "time": "1pm",
-        "screen": 4
-      },
-      {
-        "time": "4pm",
-        "screen": 5
-      },
-      {
-        "time": "8pm",
-        "screen": 6
-      }
-    ],
-    "weekend_time": [
-      "9am",
-      "12pm",
-      "3pm",
-      "7pm",
-      "10pm"
-    ]
-  },
   "sales_data": {
-    "tickets_booked": 0,
     "full_flag": false,
     "number_students": 0,
     "number_concessions": 0,
     "number_children": 0,
     "number_adults": 0
-  }
+  },
+  "url": "the-third-man",
+  "opportunities": [
+    {
+      "date": "Friday 1st August",
+      "time": "1pm",
+      "screen": 6,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Friday 1st August",
+      "time": "4pm",
+      "screen": 7,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Friday 1st August",
+      "time": "8pm",
+      "screen": 8,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Saturday 2nd August",
+      "time": "1pm",
+      "screen": 6,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Saturday 2nd August",
+      "time": "4pm",
+      "screen": 7,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Saturday 2nd August",
+      "time": "8pm",
+      "screen": 8,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Sunday 3rd August",
+      "time": "1pm",
+      "screen": 6,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Sunday 3rd August",
+      "time": "4pm",
+      "screen": 7,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Sunday 3rd August",
+      "time": "8pm",
+      "screen": 8,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Monday 4th August",
+      "time": "1pm",
+      "screen": 6,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Monday 4th August",
+      "time": "4pm",
+      "screen": 7,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Monday 4th August",
+      "time": "8pm",
+      "screen": 8,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Tuesday 5th August",
+      "time": "1pm",
+      "screen": 6,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Tuesday 5th August",
+      "time": "4pm",
+      "screen": 7,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Tuesday 5th August",
+      "time": "8pm",
+      "screen": 8,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Wednesday 6th August",
+      "time": "1pm",
+      "screen": 6,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Wednesday 6th August",
+      "time": "4pm",
+      "screen": 7,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Wednesday 6th August",
+      "time": "8pm",
+      "screen": 8,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Thursday 7th August",
+      "time": "1pm",
+      "screen": 6,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Thursday 7th August",
+      "time": "4pm",
+      "screen": 7,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Thursday 7th August",
+      "time": "8pm",
+      "screen": 8,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Friday 8th August",
+      "time": "1pm",
+      "screen": 6,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Friday 8th August",
+      "time": "4pm",
+      "screen": 7,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Friday 8th August",
+      "time": "8pm",
+      "screen": 8,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Saturday 9th August",
+      "time": "1pm",
+      "screen": 6,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Saturday 9th August",
+      "time": "4pm",
+      "screen": 7,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Saturday 9th August",
+      "time": "8pm",
+      "screen": 8,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Sunday 10th August",
+      "time": "1pm",
+      "screen": 6,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Sunday 10th August",
+      "time": "4pm",
+      "screen": 7,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Sunday 10th August",
+      "time": "8pm",
+      "screen": 8,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Monday 11th August",
+      "time": "1pm",
+      "screen": 6,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Monday 11th August",
+      "time": "4pm",
+      "screen": 7,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Monday 11th August",
+      "time": "8pm",
+      "screen": 8,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Tuesday 12th August",
+      "time": "1pm",
+      "screen": 6,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Tuesday 12th August",
+      "time": "4pm",
+      "screen": 7,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Tuesday 12th August",
+      "time": "8pm",
+      "screen": 8,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Wednesday 13th August",
+      "time": "1pm",
+      "screen": 6,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Wednesday 13th August",
+      "time": "4pm",
+      "screen": 7,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Wednesday 13th August",
+      "time": "8pm",
+      "screen": 8,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Thursday 14th August",
+      "time": "1pm",
+      "screen": 6,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Thursday 14th August",
+      "time": "4pm",
+      "screen": 7,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Thursday 14th August",
+      "time": "8pm",
+      "screen": 8,
+      "tickets_booked": 0
+    }
+  ]
 }

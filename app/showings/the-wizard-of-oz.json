@@ -15,44 +15,266 @@
   "age_rating_img_url": "img/BBFC_U_150px-height.png",
   "synopsis": "L. Frank Baum's classic tale comes to magisterial Technicolor life! The Wizard of Oz stars legendary Judy Garland as Dorothy, an innocent farm girl whisked out of her mundane earthbound existence into a land of pure imagination. Dorothy's journey in Oz will take her through emerald forests, yellow brick roads, and creepy castles, all with the help of some unusual but earnest song-happy friends.",
   "img_url": "img/movie_posters/wizard_of_oz.jpg",
-  "time_and_date": {
-    "dates": [
-      "Fri 02 May 2014",
-      "Sat 03 May 2014",
-      "Sun 04 May 2014",
-      "Mon 05 May 2014",
-      "Tue 06 May 2014",
-      "Wed 07 May 2014",
-      "Thu 08 May 2014"
-    ],
-    "weekday_times_screens": [
-      {
-        "time": "1pm",
-        "screen": 1
-      },
-      {
-        "time": "4pm",
-        "screen": 2
-      },
-      {
-        "time": "8pm",
-        "screen": 3
-      }
-    ],
-    "weekend_time": [
-      "9am",
-      "12pm",
-      "3pm",
-      "7pm",
-      "10pm"
-    ]
-  },
   "sales_data": {
-    "tickets_booked": 0,
     "full_flag": false,
     "number_students": 0,
     "number_concessions": 0,
     "number_children": 0,
     "number_adults": 0
-  }
+  },
+  "url": "the-wizard-of-oz",
+  "opportunities": [
+    {
+      "date": "Friday 1st August",
+      "time": "1pm",
+      "screen": 1,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Friday 1st August",
+      "time": "4pm",
+      "screen": 2,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Friday 1st August",
+      "time": "8pm",
+      "screen": 3,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Saturday 2nd August",
+      "time": "1pm",
+      "screen": 1,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Saturday 2nd August",
+      "time": "4pm",
+      "screen": 2,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Saturday 2nd August",
+      "time": "8pm",
+      "screen": 3,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Sunday 3rd August",
+      "time": "1pm",
+      "screen": 1,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Sunday 3rd August",
+      "time": "4pm",
+      "screen": 2,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Sunday 3rd August",
+      "time": "8pm",
+      "screen": 3,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Monday 4th August",
+      "time": "1pm",
+      "screen": 1,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Monday 4th August",
+      "time": "4pm",
+      "screen": 2,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Monday 4th August",
+      "time": "8pm",
+      "screen": 3,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Tuesday 5th August",
+      "time": "1pm",
+      "screen": 1,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Tuesday 5th August",
+      "time": "4pm",
+      "screen": 2,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Tuesday 5th August",
+      "time": "8pm",
+      "screen": 3,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Wednesday 6th August",
+      "time": "1pm",
+      "screen": 1,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Wednesday 6th August",
+      "time": "4pm",
+      "screen": 2,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Wednesday 6th August",
+      "time": "8pm",
+      "screen": 3,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Thursday 7th August",
+      "time": "1pm",
+      "screen": 1,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Thursday 7th August",
+      "time": "4pm",
+      "screen": 2,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Thursday 7th August",
+      "time": "8pm",
+      "screen": 3,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Friday 8th August",
+      "time": "1pm",
+      "screen": 1,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Friday 8th August",
+      "time": "4pm",
+      "screen": 2,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Friday 8th August",
+      "time": "8pm",
+      "screen": 3,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Saturday 9th August",
+      "time": "1pm",
+      "screen": 1,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Saturday 9th August",
+      "time": "4pm",
+      "screen": 2,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Saturday 9th August",
+      "time": "8pm",
+      "screen": 3,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Sunday 10th August",
+      "time": "1pm",
+      "screen": 1,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Sunday 10th August",
+      "time": "4pm",
+      "screen": 2,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Sunday 10th August",
+      "time": "8pm",
+      "screen": 3,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Monday 11th August",
+      "time": "1pm",
+      "screen": 1,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Monday 11th August",
+      "time": "4pm",
+      "screen": 2,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Monday 11th August",
+      "time": "8pm",
+      "screen": 3,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Tuesday 12th August",
+      "time": "1pm",
+      "screen": 1,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Tuesday 12th August",
+      "time": "4pm",
+      "screen": 2,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Tuesday 12th August",
+      "time": "8pm",
+      "screen": 3,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Wednesday 13th August",
+      "time": "1pm",
+      "screen": 1,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Wednesday 13th August",
+      "time": "4pm",
+      "screen": 2,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Wednesday 13th August",
+      "time": "8pm",
+      "screen": 3,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Thursday 14th August",
+      "time": "1pm",
+      "screen": 1,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Thursday 14th August",
+      "time": "4pm",
+      "screen": 2,
+      "tickets_booked": 0
+    },
+    {
+      "date": "Thursday 14th August",
+      "time": "8pm",
+      "screen": 3,
+      "tickets_booked": 0
+    }
+  ]
 }
