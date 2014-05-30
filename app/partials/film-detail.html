@@ -1,6 +1,4 @@
-<!-- <div class="row"> -->
-	<div class="large-8 columns">
-		<div class="large-6 columns">
+<div class="large-6 columns">
 			<p><img ng-src="{{showing.img_url}}"></p>
 		</div>
 		<div class="large-6 columns">
@@ -31,48 +29,4 @@
 		<div>
 			<p>{{showing.synopsis}}</p>
 		</div>
-	</div>
-	<div class="large-4 columns" ng-controller="FilmDetailCtrl">
-		<div class="panel">
-			<table>
-				<p>
-				<tr>
-					<td>Film:</td>
-					<td><select ngModel="formData.film">
-						<option value="">{{showing.movie_title}}</option>
-					</select>
-					</tr>
-								<p>{{formData.film}}</p>
-					<tr>
-						<td>Date:</td>
-						<td><select>
-							<option ng-repeat="date in showing.time_and_date.dates" value="">{{date}}</option>
-							</td>
-					</tr>
-					</p>
-					<p>
-					<tr>
-						<td>Time:</td>
-						<td><select>
-							<option ng-repeat="time in showing.time_and_date.weekday_times_screens" value="">{{time.time}}</option>
-						</select>
-							</td>
-						</tr>
-						</p>
-						<p>
-						<tr>
-							<td colspan="2"><a href="" class="small success button">Add</a></td>
-						</tr>
-						</p>
-					</table>
-					</p>
-					<h5>Your Order</h5>
-					<ul>
-						<li>Lorem Tickets: 4</li>
-						<li>Ipsum Tickets: 1</li>
-					</ul>
-					<p style="text-align:right;">Total: £54.32</p>
-				</div>
-			</div>
-		</div>
-	</div>
+	

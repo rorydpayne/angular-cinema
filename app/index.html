@@ -26,37 +26,64 @@
         </div>
       </div>
     </div>
-    <div class="row" ng-view></div>
-<!--       <div class="large-8 columns">
+    <div class="row">
+      <div class="large-8 columns">
         <div ng-view>
           
         </div>
-      </div> -->
-<!--       <div class="large-4 columns" ng-controller="FilmListCtrl">
+      </div>
+      <div class="large-4 columns" ng-controller="FilmListCtrl">
         <div class="panel">
-          <p>This is where the cinema ticket-booking api goes</p>
           <p>
           <table>
             <p>
             <tr>
               <td>Film:</td>
-              <td><select>
-                <option value="" ng-repeat="showing in showings">{{showing.movie_title}}</option>
-              </tr>
-              </p><p>
+              <td><select data-ng-click="fetchSelectedFilmData()" 
+                          data-ng-change="update()" 
+                          ng-model="selectedFilm" 
+                          ng-options="showing.movie_title for showing in showings"></select>
+              </td>
+            </tr>
+              </p>
+              <p>
               <tr>
                 <td>Date:</td>
-                <td><input type="date" default=/></td>
+                <td><select>
+                  <option ng-model="selectedDate"
+                          data-ng-click="fetchTimes()"
+                          data-ng-change="update()" 
+                          ng-repeat="opportunity in opportunities | unique: 'date'">{{opportunity.date}}</option>
+                </select></td>
               </tr>
               </p>
               <p>
               <tr>
                 <td>Time:</td>
                 <td><select>
-                  <option value="">1pm</option>
-                  <option value="">4pm</option>
-                  <option value="">7pm</option></td>
+                    <option ng-model="selectedTime" ng-repeat="opportunityTime in opportunityTimes">{{opportunityTime.time}}</option>
+                  </select></td>
                 </tr>
+                </p>
+                <p>
+                  <tr>
+                    <td>Ticket Type:</td>
+                    <td><select>
+                      <option data-ng-click="fetchTicketTypes()"
+                              ng-model="selectedTicketType"
+                              ng-repeat="ticket in tickets">{{ticket.ticketchoice}}</option>
+                    </select></td>
+                  </tr>
+                </p>
+                <p>
+                  <tr>
+                    <td>Quantity:</td>
+                    <td><input type="number"
+                               ng-model="quantity"
+                               min="0"
+                               integer
+                               ></td>
+                  </tr>
                 </p>
                 <p>
                 <tr>
@@ -65,14 +92,8 @@
                 </p>
               </table>
               </p>
-              <h5>Your Order</h5>
-              <ul>
-                <li>Lorem Tickets: 4</li>
-                <li>Ipsum Tickets: 1</li>
-              </ul>
-              <p style="text-align:right;">Total: £54.32</p>
             </div>
           </div>
-        </div> -->
+        </div>
       </body>
     </html>

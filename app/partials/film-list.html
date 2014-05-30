@@ -1,4 +1,4 @@
-<div class="large-8 columns">
+
 	<div class="row">
 		<div class="large-12 columns">
 			<div class="panel">
@@ -14,51 +14,5 @@
 			<h5>{{showing.movie_title}}</h5>
 			<p>{{showing.synopsis}}</p>
 			<p><a href="#/films/{{showing.url}}" class="button radius">More Info &raquo;</a></p>
-		</div>
-	</div>
-</div>
-<div class="large-4 columns">
-		<div class="panel">
-			<p>This is where the cinema ticket-booking api goes</p>
-			<p>
-			<table>
-				<p>
-				<tr>
-					<td>Film:</td>
-					<td><select>
-						<option ng-model="selected_showing" ng-repeat="showing in showings">{{showing.movie_title}}</option>
-					</tr>
-					</p><p>
-					<!-- <tr>
-						<td>Date:</td>
-						<td><select>
-							<option ng-repeat="opportunity in opportunities">{{opportunity.date}}</option>
-						</select></td>
-					</tr> -->
-					</p>
-					<p>
-					<tr>
-						<td>Time:</td>
-						<td><select>
-							<option value="">1pm</option>
-							<option value="">4pm</option>
-							<option value="">7pm</option></td>
-						</tr>
-						</p>
-						<p>
-						<tr>
-							<td colspan="2"><a href="" class="small success button">Add</a></td>
-						</tr>
-						</p>
-					</table>
-					</p>
-					<h5>Your Order</h5>
-					<ul>
-						<li>Lorem Tickets: 4</li>
-						<li>Ipsum Tickets: 1</li>
-					</ul>
-					<p style="text-align:right;">Total: £54.32</p>
-				</div>
-			</div>
 		</div>
 	</div>

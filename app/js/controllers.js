@@ -14,7 +14,32 @@ myAppControllers.controller('FilmListCtrl', ['$scope','$http',
     $http.get('http://localhost:9000/showings')
       .then(function(response) {
         $scope.showings = response.data;
-      })
+        $scope.selectedFilm = $scope.showings[0];
+        $scope.fetchSelectedFilmData = function() {
+          $http.get('http://localhost:9000/opportunities',{params: {showingId: $scope.selectedFilm.url}})
+            .then(function(response) {
+              $scope.opportunities = response.data;
+              $scope.selectedDate = $scope.opportunities[0];
+              $scope.fetchTimes = function() {
+                $http.get('http://localhost:9000/times', {params: {showingId: $scope.selectedFilm.url, date: $scope.selectedDate.date}})
+                  .then(function(response) {
+                    $scope.opportunityTimes = response.data;
+                  })
+              }
+              $scope.fetchTimes();
+            })
+        };
+        $scope.fetchSelectedFilmData();
+      });
+    $scope.fetchTicketTypes = function() {
+        $http.get('http://localhost:9000/tickets')
+          .then(function(response) {
+            $scope.tickets = response.data;
+            $scope.selectedTicketType = $scope.tickets[0];
+          })
+      };
+      $scope.fetchTicketTypes(); 
+      $scope.quantity = 0;
   }]);
 
 myAppControllers.controller('FilmDetailCtrl', ['$scope', '$routeParams', '$http',
@@ -23,6 +48,5 @@ myAppControllers.controller('FilmDetailCtrl', ['$scope', '$routeParams', '$http'
       .then(function(response) {
         $scope.showing = response.data;
       })
-
   }]);
 
